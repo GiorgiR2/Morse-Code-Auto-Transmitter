@@ -7,6 +7,7 @@ cheating-ისთვის შეგიძლიათ გამოიყენ
 მორზეს ანბანში თუ არ ერკვევით ცოტა ძნელია გაიგო რას ვწერ.<br/>
 
 
+
 English text:<br/>
 So this little code can convert input text into morse code (morse clicks),<br/>
 it will type with chosen speed using enter(can be changed in code) key...<br/>

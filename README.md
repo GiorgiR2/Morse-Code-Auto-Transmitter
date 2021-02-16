@@ -9,6 +9,6 @@ cheating-ისთვის შეგიძლიათ გამოიყენ
 
 
 English text:<br/>
-So this little code can convert input text into a morse code (morse clicks),<br/>
+So this little code is used to convert input text into a morse code (morse clicks),<br/>
 it will type with a specific speed using enter key...<br/>
-This can be used for cheating in morse chat rooms, for example: http://morsecode.me/<br/>
+Could be used for cheating in morse chat rooms, for example: http://morsecode.me/<br/>
